@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zynt3x
+- 👋 Hi, I’m Abhishek Narayan :)
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate with no one
